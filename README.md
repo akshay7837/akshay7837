@@ -8,5 +8,7 @@ Hi, I'm **Akshay Mehta** building some cool stuff using codes and chemical engin
 <a href="https://www.hackerrank.com/Mehta_Akshay">
   <img align="left" alt=" " width="21px" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" />
 <img src="https://i.graphicmama.com/blog/wp-content/uploads/2016/12/06085555/dribbble_1.gif" width="800"/>
-
+<p align="center">
+Check out my repos 	:point_down:
+</p>
 
