@@ -1,0 +1,8 @@
+{
+  "name": "ambient-bulb-bridge",
+  "version": "1.0.0",
+  "description": "Local bridge: receives colours from the Chrome extension and drives a Tuya-based Wi-Fi bulb over LAN.",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "tuyapi": "^7.5.2" }
+}

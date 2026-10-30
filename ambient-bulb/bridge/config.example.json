@@ -1,0 +1,9 @@
+{
+  "id": "YOUR_DEVICE_ID",
+  "key": "YOUR_LOCAL_KEY",
+  "ip": "192.168.1.50",
+  "version": "3.3",
+  "schema": "v2",
+  "minBrightness": 0.1,
+  "port": 8765
+}
